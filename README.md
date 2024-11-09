@@ -1,8 +1,8 @@
-# Circuitos en CC y CA - Ejemplos y Explicaciones
+# Circuitos en CC y CA - Recursos Didácticos Avanzados
 
-Este repositorio contiene ejemplos prácticos de conceptos fundamentales en circuitos de **corriente continua (CC)** y **corriente alterna (CA)**. Está diseñado para estudiantes y entusiastas de la electrónica que deseen profundizar en el análisis de circuitos eléctricos y su comportamiento en diferentes condiciones.
+Este repositorio contiene ejemplos prácticos de conceptos fundamentales del curso de "Circuitos de **corriente continua (CC)** y **corriente alterna (CA)**" del Tecnológico de Costa Rica. Está diseñado para estudiantes que deseen profundizar en el análisis de circuitos eléctricos y su comportamiento en diferentes condiciones.
 
-## Contenidos
+## Tópicos
 
 1. **Circuitos en Corriente Continua (CC)**:
     - Ley de Ohm.
@@ -18,6 +18,12 @@ Este repositorio contiene ejemplos prácticos de conceptos fundamentales en circ
     - Respuesta transitoria y respuesta forzada.
     - Análisis fasorial.
     - Amortiguamiento en circuitos RLC (subamortiguado, críticamente amortiguado, sobreamortiguado).
+  
+## Contenidos
+
+- [¿Cómo se produce el desfase entre voltaje y corriente en bobinas y capacitores?](./Desfases_i_v_en_CyL.ipynb)
+- [¿Qué es el factor de potencia y cómo se puede corregir para optimizar el uso de energía en los circuitos?](./Ejemplo_Factor_de_Potencia.ipynb)
+- [¿Cómo se comportan los circuitos RLC en los casos de subamortiguamiento, amortiguamiento crítico y sobreamortiguamiento?](./RLC_Amortiguamiento.ipynb)
 
 ## Objetivos
 
