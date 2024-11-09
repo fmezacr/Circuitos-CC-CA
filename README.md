@@ -45,6 +45,12 @@ Para ejecutar los ejemplos de este repositorio necesitarás:
 
 ¡Las contribuciones son bienvenidas! Si tienes sugerencias, mejoras o ejemplos adicionales que te gustaría agregar, por favor abre un *issue* o envía un *pull request*. Este repositorio está destinado a ser una herramienta educativa en constante evolución.
 
-## Licencia
+## Autor
+**Felipe Meza-Obando**
 
-Este repositorio está bajo la [MIT License](LICENSE).
+## Licencia
+Este proyecto está bajo la Licencia MIT - vea el archivo `LICENSE` para más detalles.
+
+---
+
+Esperamos que encuentres útiles los recursos de este repositorio y te invitamos a ser parte de nuestra comunidad de aprendizaje y colaboración.
