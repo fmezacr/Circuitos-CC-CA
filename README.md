@@ -28,6 +28,8 @@ Este repositorio contiene ejemplos prácticos de conceptos fundamentales del cur
 - [¿Cómo se comportan los circuitos RLC en los casos de subamortiguamiento, amortiguamiento crítico y sobreamortiguamiento?](./RLC_Amortiguamiento.ipynb)
 - [¿Cómo se calculan los valores RMS y Promedio en Corriente Alterna (CA)?](./Valores_RMS_y_Promedio_en_Corriente_Alterna.ipynb)
 - [¿Cómo realizar las transformaciones Delta-Estrella y Estrella-Delta en circuitos eléctricos?](./Delta_Estrella.ipynb)
+- [¿Cómo aplicar la Ley de Ohm?](./Ley_de_Ohm.ipynb)
+
 
 ## Objetivos
 
