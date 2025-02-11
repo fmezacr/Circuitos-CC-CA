@@ -27,7 +27,7 @@ Este repositorio contiene ejemplos prácticos de conceptos fundamentales del cur
 - [¿Qué es el factor de potencia y cómo se puede corregir para optimizar el uso de energía en los circuitos?](./Corrección_Factor_de_Potencia.ipynb)
 - [¿Cómo se comportan los circuitos RLC en los casos de subamortiguamiento, amortiguamiento crítico y sobreamortiguamiento?](./RLC_Amortiguamiento.ipynb)
 - [¿Cómo se calculan los valores RMS y Promedio en Corriente Alterna (CA)?](./Valores_RMS_y_Promedio_en_Corriente_Alterna.ipynb)
-- [¿Cómo realizar las transformaciones Delta-Estrella y Estrella-Delta en circuitos eléctricos?](./Delta_Estrella.ipynb.ipynb)
+- [¿Cómo realizar las transformaciones Delta-Estrella y Estrella-Delta en circuitos eléctricos?](./Delta_Estrella.ipynb)
 
 ## Objetivos
 
