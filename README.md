@@ -1,5 +1,7 @@
-<img src="logo-tec.png" alt="TEC" width="500" height="265"/>
+<img src="logo-tec.png" alt="TEC" width="450" height="215"/>
+
 # Circuitos en CC y CA - Recursos Didácticos Avanzados
+
 # Curso MT2001 - Escuela de Mecatrónica
 
 <img src="mt2001.png" alt="Circuitos eléctricos en CC y CA" width="463" height="465"/>
