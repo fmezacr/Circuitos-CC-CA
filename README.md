@@ -1,6 +1,8 @@
 # Circuitos en CC y CA - Recursos Didácticos Avanzados
+# Curso MT2001 - Escuela de Mecatrónica
 
 <img src="mt2001.png" alt="Circuitos eléctricos en CC y CA" width="463" height="465"/>
+<img src="logo-tec.png" alt="TEC" width="600" height="315"/>
 
 Este repositorio contiene ejemplos prácticos de conceptos fundamentales del curso de "Circuitos de **corriente continua (CC)** y **corriente alterna (CA)**" del Tecnológico de Costa Rica. Está diseñado para estudiantes que deseen profundizar en el análisis de circuitos eléctricos y su comportamiento en diferentes condiciones.
 
